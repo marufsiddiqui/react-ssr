@@ -8,7 +8,7 @@ export default function renderer() {
   return `
 <!doctype html>
 <html>
-  <head>My App</head>
+  <head></head>
   <body>
     <div id="root">
       ${content}
